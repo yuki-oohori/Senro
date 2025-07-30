@@ -1,6 +1,6 @@
 // === EkiNaviApp.pde ===
 // Java側で定義したクラスのオブジェクトを生成
-RouteNavigator navigator;
+RouteNavigator navigator;/////////
 PFont font;
 // UI部品の位置やサイズを管理する変数
 int startX = 50, startY = 50, fieldW = 200, fieldH = 30;
